@@ -25,15 +25,16 @@
   "dependencies": {
     "ansi-colors": "^4.1.1",
     "cli-table": "^0.3.1",
-    "csv-parse": "^4.6.5",
-    "puppeteer": "^2.0.0",
-    "yargs": "^14.2.0"
+    "csv-parse": "^4.12.0",
+    "puppeteer": "^2.1.1",
+    "skmeans": "^0.11.3",
+    "yargs": "^14.2.3"
   },
   "devDependencies": {
-    "eslint": "^6.5.1",
-    "eslint-config-prettier": "^6.4.0",
-    "eslint-plugin-prettier": "^3.1.1",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
     "jest": "^24.9.0",
-    "prettier": "^1.18.2"
+    "prettier": "^1.19.1"
   }
 }
